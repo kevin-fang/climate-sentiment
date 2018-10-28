@@ -22,7 +22,7 @@ def get_algorithmia_sentiment(text):
         }
     return algo.pipe(algo_in).result[0]['sentiment']
 
-print("Initializing GCP")
+print("Initializing GCP...")
 # Instantiates a GCP client
 client = language.LanguageServiceClient()
 
@@ -40,7 +40,6 @@ def date_from_url(url):
 
 def get_mean_sentiment(sentiments):
     return sum([x[0] for x in sentiments]) / len(sentiments)
-
 
 def analyze_sentiment_by_sentences(url, verbose=False):
     # download HTML from simplified page
@@ -79,5 +78,5 @@ def analyze_sentiment_by_sentences(url, verbose=False):
         #sentiments.append(get_algorithmia_sentiment(sentence))
         sentiments.append((get_gcp_sentiment(sentence), sentence))
         if verbose: print("Finished analyzing sentence {} of {}".format(i + 1, len(sentences)))
-        
+        if verbose: print("Sentiment: ")
     return sentiments
