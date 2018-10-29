@@ -1,3 +1,4 @@
 climate_sentiment_key.json
 __pycache__
 .ipynb_checkpoints/
+*.twbr
