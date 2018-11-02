@@ -44,39 +44,37 @@ def get_mean_sentiment(sentiments):
 def analyze_sentiment_by_sentences(url, verbose=False):
     # download HTML from simplified page
     base_url = "https://www.textise.net/showText.aspx?strURL="
-    if verbose: print("Downloading HTML page...")
+    print("Downloading HTML page...")
     page = requests.get(base_url + url.replace(":", "%253A"))
     tree = html.fromstring(page.content)
-    if verbose: print("Finished downloading. Parsing...")
+    print("Finished downloading. Parsing...")
     
     divs = []
     for div in tree.xpath('//div/text()'):
         divs.append(div.rstrip())
-    # delete filler text
-    delete = ["Español", 'Set edition preference:', u'\xa0 -', "International  Edition", "International Edition", "Find us on", "Read More", 'U.S.', "Arabic", 'International', 'Here are some options:', "Switzerland", " FOLLOW CNN BUSINESS "]
-    divs = filter(lambda x: re.sub(' \d+ of \d+', '', x), divs)
-    divs = filter(lambda x: x != [], divs)
+        
+    # special economist filter
+    delete = ["Sections", "Here are some options:", "Get our daily newsletter", "a day ago", "Latest stories", "Upgrade your inbox and get our Daily Dispatch and Editor's Picks.", "Apps & Digital Editions", "Blogs", "From The Economist Group", "Media", "\r\nDid you know that you can easily add text-only links to your own web site? For more information, visit the",
+             ]
     divs = filter(lambda x: x != "<div>", divs)
     divs = filter(lambda x: x != "</div>", divs)
     divs = filter(lambda x: x != "\xa0", divs)
     divs = filter(lambda x: x != ".", divs)
+    divs = filter(lambda x: x[-9:] != "hours ago", divs)    
     divs = filter(lambda x: x != " |", divs)
     divs = filter(lambda x: x != "", divs)
-    divs = filter(lambda x: "/>" not in x, divs)
-    divs = filter(lambda x: "</" not in x, divs)
-    divs = filter(lambda x: "http" not in x, divs)
-    divs = filter(lambda x: "Image:" not in x, divs)
-    divs = filter(lambda x: u"\xa0" not in x, divs)
-    divs = filter(lambda x: "Facebook Messenger" not in x, divs)
-    divs = filter(lambda x: "Hide Caption" not in x, divs)
-    divs = filter(lambda x: "MUST WATCH" not in x, divs)
+    divs = filter(lambda x: x != "hours ago", divs)
     divs = filter(lambda x: x not in delete, divs)
-    divs = "".join(list(divs)[1:-4])
-    sentences = [x.rstrip() for x in divs.split(".")]
+    
+    divs = list(divs)[5:-25]
+    divs = " ".join(list(divs))
+    sentences = [x.rstrip() + "." for x in divs.split(".")]
     sentiments = []
     for i, sentence in enumerate(sentences):
-        #sentiments.append(get_algorithmia_sentiment(sentence))
-        sentiments.append((get_gcp_sentiment(sentence), sentence))
-        if verbose: print("Finished analyzing sentence {} of {}".format(i + 1, len(sentences)))
-        if verbose: print("Sentiment: ")
+        sentiment = get_gcp_sentiment(sentence)
+        sentiments.append((sentiment, sentence))
+        if verbose:
+            print("Finished analyzing sentence {} of {}".format(i + 1, len(sentences)))
+            print("Sentiment: {}".format(sentiment))
+        
     return sentiments
