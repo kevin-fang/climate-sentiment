@@ -1,139 +1,139 @@
-1/12/2011,0.040000001
-2/14/2011,0.050000001
-3/2/2011,0.015
-4/7/2011,0.031250001
-4/26/2011,-0.200000002
-4/29/2011,-0.062962963
-5/27/2011,-0.021428572
-6/2/2011,-0.085714286
-6/6/2011,0.047058822
-6/9/2011,-0.038461542
-6/18/2011,-0.031250001
-6/20/2011,-0.147368423
-9/5/2011,0.118181819
-9/12/2011,-0.100000001
-9/28/2011,3.07E-09
-11/21/2011,0.02
-12/2/2011,-0.0125
-12/4/2011,-0.125
-1/27/2012,-0.09310345
-3/26/2012,-0.128571429
-4/13/2012,0.188888892
-4/26/2012,0.108333335
-4/29/2012,0.110526317
-6/27/2012,-0.069230771
-7/3/2012,-0.14
-7/22/2012,0.110526319
-9/26/2012,-0.125000003
-10/26/2012,0.058333332
-11/6/2012,-0.063157896
-11/9/2012,-0.073333335
-11/22/2012,-0.03846154
-11/29/2012,0.084210525
-11/30/2012,-0.133333334
-12/5/2012,0.021428573
-1/22/2013,0.064516131
-2/6/2013,0.029411768
-4/16/2013,-0.003846153
-5/20/2013,-0.2875
-6/12/2013,0.079166666
-6/13/2013,-0.018181819
-6/19/2013,-0.134782612
-8/23/2013,-9.31E-10
-10/31/2013,0.133333334
-11/10/2013,-0.155813956
-11/12/2013,0.007407407
-1/15/2014,-0.016666666
-2/11/2014,0.266666668
-3/6/2014,-0.033333333
-3/10/2014,-0.044000001
-3/24/2014,0.010000001
-3/31/2014,-0.046153847
-4/10/2014,0.004000001
-5/16/2014,-0.155555559
-7/15/2014,-0.037837841
-8/15/2014,0.114285717
-9/14/2014,0.156250003
-10/16/2014,0.158064518
-11/13/2014,0.192307695
-11/16/2014,-0.067857147
-11/23/2014,-0.062500001
-12/10/2014,0.019047619
-12/11/2014,0.066666668
-2/3/2015,-0.057142859
-2/27/2015,-0.008695653
-4/8/2015,0.16666667
-5/4/2015,0.166666669
-6/1/2015,0.125000002
-6/4/2015,0.058823529
-6/23/2015,0.099999998
-7/8/2015,0.029999999
-9/16/2015,-0.166666666
-10/9/2015,0.107142858
-11/8/2015,-0.446666665
-11/10/2015,0.113333333
-11/13/2015,-0.160000002
-11/16/2015,0.100000002
-12/3/2015,0.133333333
-12/4/2015,0.058333334
-12/7/2015,-0.117241381
-12/14/2015,0.1
-12/16/2015,0.035294119
-3/1/2016,-0.091666666
-3/7/2016,0.079166668
-3/23/2016,-0.080952382
-4/4/2016,-0.092307692
-4/7/2016,-0.280952379
-4/12/2016,0.066666667
-5/20/2016,-0.190476193
-7/20/2016,-0.013333334
-7/26/2016,0.015
-7/27/2016,-0.055555557
-8/24/2016,0.09354839
-9/1/2016,0.017857144
-9/3/2016,-0.051612903
-9/14/2016,-0.084615386
-10/21/2016,0.111111114
-11/7/2016,0
-11/15/2016,0.253846156
-11/28/2016,-0.146153849
-12/12/2016,0.066666666
-1/25/2017,-0.200000005
-2/1/2017,0
-3/1/2017,0.026086958
-3/15/2017,-0.105882352
-3/17/2017,0.020000001
-3/21/2017,0.120000002
-4/25/2017,-0.145454548
-5/9/2017,0.170000006
-6/2/2017,-0.294444448
-6/6/2017,-0.018750002
-6/8/2017,-0.084210527
-6/22/2017,-0.042857143
-7/5/2017,0.041176471
-7/14/2017,-0.078571432
-8/14/2017,-0.114285717
-9/11/2017,-0.107692309
-10/16/2017,0.060000001
-11/17/2017,-0.021874999
-12/6/2017,0.022222224
-12/12/2017,0.079166669
-9/4/2018,-0.133333336
-9/5/2018,-0.07
-9/8/2018,-0.063636365
-9/9/2018,-9.31E-10
-9/11/2018,0.085714288
-9/13/2018,0.032
-9/14/2018,0.025
-9/19/2018,-0.01891892
-9/20/2018,0.147619048
-9/25/2018,0.072727271
-9/26/2018,0.046153847
-10/1/2018,-0.016666666
-10/8/2018,0.050000002
-10/10/2018,-0.025
-10/15/2018,0.129411765
-10/24/2018,-0.264705885
-10/29/2018,0.130769232
-10/30/2018,-0.24
-11/2/2018,-0.343750003
+Date,Headline,Sentiment
+2011-01-12,Scientists see climate change link to Australian floods,0.04000000059604645
+2011-02-14,Climate change hits Alaska's national parks,0.05000000142238357
+2011-03-02,Extreme winter weather linked to climate change,0.015000000223517418
+2011-04-07,Climate change targets developing world's cities,0.03125000139698386
+2011-04-26,Rising seas scariest climate impact: Nauru's Moses,-0.2000000016654239
+2011-04-29,China carbon emissions could peak by 2025-2030: U.S. study,-0.06296296279739451
+2011-05-27,Venice may be less at risk from seas than feared,-0.021428572280066355
+2011-06-02,Australia warns climate change threatens Kakadu park,-0.08571428592715945
+2011-06-06,Rising forest density offsets climate change: study,0.04705882247756509
+2011-06-09,Farmers face water shortage as climate changes: FAO,-0.038461541900267966
+2011-06-18,Climate change raising tick threat for northern moose: officials,-0.03125000139698386
+2011-06-20,Supreme court rejects global warming lawsuit,-0.14736842324859217
+2011-09-05,In the world's breadbasket climate change feeds some worry,0.11818181881398866
+2011-09-12,Al Gore in 24-hour broadcast to convert climate skeptics,-0.10000000074505806
+2011-09-28,Climate change threatens Yellowstone region: report,3.0678861281451056e-09
+2011-11-21,Beware climate change risk from aircon fridge gases: U.N.,0.01999999980131785
+2011-12-02,Timeline: How the world discovered global warming,-0.012500000186264515
+2011-12-04,Gorillas tigers at risk due to climate change,-0.125
+2012-01-27,Singapore raises sea defences against tide of climate change,-0.09310344966321156
+2012-03-26,Global warming close to becoming irreversible-scientists,-0.1285714287133444
+2012-04-13,Scientists examine a hot epoch to forecast climate future,0.1888888919795001
+2012-04-26,Peru is latest developing nation to adopt climate change initiative,0.1083333349476258
+2012-04-29,Wind farms may have warming effect: research,0.1105263170443083
+2012-06-27,Exxon CEO calls climate change engineering problem,-0.06923077083550967
+2012-07-03,North Carolina lawmakers reject sea level rise predictions,-0.14000000009934108
+2012-07-22,Bacteria outbreak in Northern Europe due to ocean warming study says,0.11052631900498741
+2012-09-26,100 million to die by 2030 if world fails to act on climate,-0.12500000260770322
+2012-10-26,U.S. looks to old Arctic ship logs for climate change clues,0.05833333171904087
+2012-11-06,Indian monsoons may fail more often due to climate change-study,-0.0631578960701039
+2012-11-09,Maya civilization's collapse linked to climate change: study,-0.0733333354194959
+2012-11-22,Timeline: How the world found out about global warming,-0.03846154018090321
+2012-11-29,Evidence for man-made climate change getting stronger - U.N.,0.08421052482567336
+2012-11-30,Invest in food on climate change risk: Baring,-0.13333333354620708
+2012-12-05,Saudi Arabia sees need to act on climate change,0.02142857334443501
+2013-01-22,Obama wins praise abroad for climate change goals,0.06451613143567116
+2013-02-06,Amazon forest more resilient to climate change than feared - study,0.029411768212037927
+2013-04-16,Climate scientists struggle to explain warming slowdown,-0.0038461533303444204
+2013-05-20,Supreme Court declines to hear Alaska climate change case,-0.28749999962747097
+2013-06-12,New York lays out $20 billion plan to adapt to climate change,0.07916666567325592
+2013-06-13,Tide of humanity as well as rising seas lap at Kiribati's future,-0.018181819355849064
+2013-06-19,Time to stop arguing about climate change World Bank says,-0.1347826116758844
+2013-08-23,Britain's puffins at risk due to climate change,-9.313225746154785e-10
+2013-10-31,Emerging economies nearing half of global warming emissions,0.1333333340783914
+2013-11-10,Peru uses climate twist to lure tourists to shrinking glacier,-0.1558139556369116
+2013-11-12,Destructive Philippine typhoon puts spotlight on climate concerns,0.0074074069658915205
+2014-01-15,UN climate chief urges investors to bolster global warming fight,-0.01666666567325592
+2014-02-11,COLUMN-Better batteries are key to climate change: Kemp,0.26666666836374336
+2014-03-06,Climate change could mean more malaria in Africa South America,-0.03333333283662796
+2014-03-10,U.S. Senate Democrats pulling all-nighter on climate change,-0.04400000065565109
+2014-03-24,Global warming not stopped will go on for centuries: WMO,0.010000000521540642
+2014-03-31,Threat from global warming heightened in latest U.N. report,-0.04615384684159206
+2014-04-10,Hollywood heavyweights put climate change manifesto on TV,0.004000000953674317
+2014-05-16,U.S. insurer class action may signal wave of climate-change suits,-0.15555555870135626
+2014-07-15,Climate change signals the end of Australian shiraz as we know it,-0.037837841220804164
+2014-08-15,Solomons town first in Pacific to relocate due to climate change,0.11428571669828325
+2014-09-14,Ocean algae can evolve fast to tackle climate change: study,0.156250003259629
+2014-10-16,Alcoholic drinks makers lead way on climate change adaptation,0.15806451800369448
+2014-11-13,Bolt from the blue: warming climate may fuel more lightning,0.19230769517330024
+2014-11-16,G20 commits to higher growth fight climate change; Russia isolated over Ukraine,-0.06785714652921472
+2014-11-23,Some climate change impacts unavoidable - World Bank,-0.06250000093132257
+2014-12-10,Green Climate Fund to back energy 'paradigm shift': director,0.019047618976661136
+2014-12-11,Migration stripping Pacific Islands of climate change know-how,0.06666666766007741
+2015-02-03,World has not woken up to water crisis caused by climate change: IPCC head,-0.057142858526536396
+2015-04-08,Is 'Game of Thrones' aiding the global debate on climate change?,0.16666666985977263
+2015-05-04,Fjords are unexpected natural allies against climate change: study,0.1666666685293118
+2015-06-01,Climate change boosts rain in Africa's Sahel region: study,0.12500000248352686
+2015-06-04,IKEA pledges 1 billion euros to help slow climate change,0.05882352897349526
+2015-06-23,Climate change health risk is a 'medical emergency' experts warn,0.09999999829701015
+2015-07-08,Technical solutions alone can't fix climate change: scientists,0.029999998584389686
+2015-09-16,Reinsurers call for action at climate change summit,-0.16666666567325591
+2015-10-09,Scientists predict drier Horn of Africa as climate warms,0.10714285767504148
+2015-11-08,Factbox: How does climate change make people poorer?,-0.4466666648785273
+2015-11-10,Saudi Arabia says will diversify oil economy to slow climate change,0.11333333253860474
+2015-11-13,Farmer sues Pakistan's government to demand action on climate change,-0.16000000163912773
+2015-11-16,Unmitigated climate change to shrink global economy by 23 percent researchers find,0.10000000223517418
+2015-12-03,Top fashion CEOs fear rising costs from climate change,0.13333333345750967
+2015-12-04,CalPERS says to engage more companies on climate change,0.058333334202567734
+2015-12-07,Once a fixture climate skeptics say they are being stifled in Paris,-0.11724138105737753
+2015-12-14,Can the Paris agreement protect poor farmers from climate change?,0.10000000046244983
+2015-12-16,Climate change puts Venezuelan amphibians at risk of extinction,0.035294118611251604
+2016-03-01,Bin Laden called for Americans to rise up over climate change,-0.09166666616996129
+2016-03-07,Time short to protect Africa's food supply from climate change - scientists,0.07916666753590107
+2016-03-23,U.S. Argentina take steps to tackle climate change,-0.08095238215866543
+2016-04-04,Climate change puts trillions of dollars of financial assets at risk: study,-0.09230769196381935
+2016-04-07,To help curb climate change stop wasting food: scientists,-0.2809523794622648
+2016-04-12,Political storm clouds outlook for Brazil's climate change plan,0.06666666724615627
+2016-05-20,From rape to disasters climate change a threat to women: funders,-0.1904761926049278
+2016-07-20,North American forests not the climate change remedy hoped for: study,-0.013333334028720856
+2016-07-26,Scientists caught off-guard by record temperatures linked to climate change,0.015000000223517418
+2016-07-27,Climate change risk threatens 18 U.S. military sites: study,-0.055555557211240135
+2016-08-24,Hit by climate change Central American coffee growers get a taste for cocoa,0.09354839017314295
+2016-09-01,U.S. and China to lead push on climate change at G20 summit,0.01785714365541935
+2016-09-03,U.S. China ratify Paris climate agreement,-0.051612903273874716
+2016-09-14,Climate change 'significant and direct' threat to U.S. military: reports,-0.08461538644937369
+2016-10-21,Climate change is shifting areas of skin disease concern,0.11111111359463798
+2016-11-07,Moody's warns of climate change impact on sovereign ratings,0.0
+2016-11-15,As climate change uproots communities innovation can rescue culture,0.2538461559093915
+2016-11-28,Pope urges world leaders not to hobble climate change pact,-0.14615384890482977
+2016-12-12,Santa in trouble? Reindeer shrink in Arctic as climate changes,0.06666666579743226
+2017-01-25,Trump administration tells EPA to cut climate page from website: sources,-0.2000000045767852
+2017-02-01,Faced with U.S. retreat on climate change EU looks to China,0.0
+2017-03-01,Climate change is a threat - but it won't hurt me Americans say,0.026086957882279934
+2017-03-15,In challenge to Trump 17 Republicans join fight against global warming,-0.1058823518893298
+2017-03-17,Climate change financing dropped from G20 draft statement,0.020000001043081285
+2017-03-21,Business leaders urge G20 to put climate change back on agenda,0.12000000178813934
+2017-04-25,Millions of Colombians at risk to climate change: minister,-0.1454545482993126
+2017-05-09,Laws to tackle climate change exceed 1200 worldwide: study,0.17000000551342964
+2017-06-02,New York prosecutor says Exxon misled investors on climate change,-0.2944444480041663
+2017-06-06,Most Americans want 'aggressive' action on climate change: Reuters/Ipsos poll,-0.01875000214204192
+2017-06-08,From floods to fires Russia sees stronger climate impacts - but efforts to adapt lag,-0.08421052698242038
+2017-06-22,You say 'climate change' I say 'global warming' - what's the difference?,-0.04285714349576405
+2017-07-05,Climate change may turn Africa's arid Sahel green: researchers,0.041176470763543076
+2017-07-14,Asia faces disaster from soaring temperatures if climate change unchecked: scientists,-0.0785714318709714
+2017-08-14,Vanguard seeks corporate disclosure on risks from climate change,-0.11428571652088847
+2017-09-11,Pope says humanity will 'go down' if it does not address climate change,-0.10769230929704812
+2017-10-16,Plant more trees to combat climate change: scientists,0.06000000089406967
+2017-11-17,Can carbon-sucking technologies hold back climate change?,-0.021874999161809683
+2017-12-06,Global warming may be more severe than expected by 2100: study,0.02222222379512257
+2017-12-12,World is losing the battle against climate change Macron says,0.07916666908810537
+2018-09-04,Governments 'not ready' for Poland climate change talks: Fiji PM,-0.13333333631356556
+2018-09-05,At '5 minutes to midnight' rights group calls time on climate change,-0.07000000004967054
+2018-09-08,Thousands march in French cities to demand action against climate change,-0.06363636526194485
+2018-09-09,Public pension funds slow to move on climate change risk: study,-9.313225746154785e-10
+2018-09-11,British pension schemes to disclose climate change strategy,0.08571428805589676
+2018-09-13,Ban Ki-moon Gates lend muscle to help world weather climate change,0.03200000047683716
+2018-09-14,Land conservation steps into limelight as key climate change fix,0.02500000037252903
+2018-09-19,Greenland and the hunt for better climate science,-0.018918920409035037
+2018-09-20,Documenting climate change - with a drone,0.1476190480447951
+2018-09-25,Love in the time of climate change: Indian film with a new take on romance,0.07272727110169151
+2018-09-26,Businesses pledge climate change action at New York summit,0.046153847414713636
+2018-10-01,Sunk costs: Airports taking action against rising seas storms as climate changes,-0.01666666641831398
+2018-10-08,U.S. economists win Nobel for work on climate change innovation,0.05000000217786202
+2018-10-10,U.S. oil CEO says corporations should work to stem climate change,-0.024999999906867743
+2018-10-15,Beer lovers face price spikes shortages as climate changes: study,0.12941176488119013
+2018-10-24,Prince Harry highlights daily threat of climate change on visit to Fiji,-0.26470588498255787
+2018-10-29,Producing bitcoin currency could void climate change efforts - scientists,0.13076923214472258
+2018-10-30,Children activists rally in support of climate change lawsuit,-0.24000000009934108
+2018-11-02,U.S. top court rejects Trump administration bid to halt climate trial,-0.3437500027939677

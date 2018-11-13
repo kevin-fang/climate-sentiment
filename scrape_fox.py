@@ -48,7 +48,7 @@ def get_url(url):
         print("Finished downloading. Parsing...")
 
         divs = []
-        delete = [" |", r"\n        Other"]
+        delete = [" |", r"\n        Other", "Follow us on", "Like us at"]
         for div in tree.xpath('//div/text()'):
             divs.append(div.rstrip())
 
@@ -56,6 +56,7 @@ def get_url(url):
         divs = filter(lambda x: x != '', divs)
         divs = filter(lambda x: x not in delete, divs)
         divs = filter(lambda x: "[Image: " not in x, divs)
+        divs = map(lambda x: x.strip(), divs)
         date_re = r'(\w+ \d+, \d+)'
         divs = list(divs)
         divs = divs[:-10]
@@ -71,7 +72,10 @@ def get_url(url):
 # get date from Reuters article
 def get_date(url):
     divs = get_url(url)
-    date = datetime.strptime(divs[0], "Published %B %d, %Y")
+    try:
+        date = datetime.strptime(divs[0], "Published %B %d, %Y")
+    except ValueError: 
+        date = datetime.strptime(divs[0] + ", 2018", "Published %B %d, %Y")
     return date
 
 def analyze_sentiment_by_sentences(url, verbose=False):

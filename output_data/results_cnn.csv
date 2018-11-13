@@ -1,168 +1,168 @@
-Date,Sentiment
-10/7/11,0.04054054
-10/17/11,0.096969698
-10/21/11,-0.033333334
-10/26/11,0.039130435
-10/27/11,0.051351352
-11/8/11,-0.047368421
-11/29/11,0.030952382
-12/3/11,0.11666667
-12/6/11,0.12826087
-12/9/11,0.242553192
-12/11/11,-0.023529412
-12/12/11,0
-12/13/11,0.106896552
-12/23/11,0.018181819
-3/1/12,0.226
-5/11/12,0.140816328
-6/10/12,0.21851852
-7/11/12,0.120454547
-7/17/12,-0.150000002
-7/24/12,0.309090911
-7/28/12,0.2675
-8/5/12,-0.013333337
-9/20/12,0.147692307
-9/25/12,0
-10/29/12,0.097916669
-11/1/12,0.139534886
-11/7/12,-0.002941177
-11/16/12,-0.120689656
-11/27/12,0.093442622
-11/29/12,-0.011111111
-12/3/12,0.051923078
-12/4/12,-0.027777776
-12/6/12,0
-12/9/12,0.109999999
-12/13/12,-0.100000002
-12/26/12,0.075675675
-1/22/13,0.126666668
-1/23/13,0.102857145
-1/29/13,0.129268295
-2/8/13,0.223999999
-2/11/13,0.130232557
-2/17/13,-0.113888891
-2/18/13,-0.112765956
-2/22/13,-0.01764706
-2/26/13,0.016000001
-3/6/13,-0.062745098
-3/7/13,-0.070833335
-3/8/13,0.115384618
-3/12/13,0.12037037
-3/14/13,0.043137255
-3/18/13,0.290000002
-3/22/13,0.009230769
-4/9/13,-0.024390244
-4/12/13,-0.072000001
-4/17/13,-0.078124998
-4/22/13,0.043243242
-4/25/13,-0.028260871
-5/10/13,0.043589746
-5/22/13,0.018181821
-5/24/13,-0.024675324
-6/4/13,0.016981132
-6/11/13,0.039130436
-6/28/13,0.053333334
-8/1/13,-0.007692308
-9/26/13,0.104081633
-9/27/13,0.035897435
-10/22/13,0.051515153
-10/29/13,-0.031034481
-11/3/13,0.150000002
-11/11/13,0.234285713
-1/17/14,-0.003636364
-1/31/14,0.164999999
-2/18/14,-0.050793651
-2/24/14,0.014545453
-3/6/14,0.192105264
-3/30/14,0.071153847
-3/31/14,-0.005882352
-5/6/14,0.207894737
-5/20/14,0.096875003
-5/23/14,0.310714288
-6/2/14,-0.019402985
-9/21/14,0.088235296
-9/23/14,-0.091666668
-11/14/14,-0.03125
-12/30/14,-0.048598131
-1/21/15,0.057894739
-1/22/15,-0.051999999
-2/19/15,0.208888889
-3/9/15,-0.040000003
-3/31/15,0.140000002
-4/8/15,0.076363639
-4/22/15,-0.132558141
-5/20/15,-0.10625
-5/27/15,-0.036363636
-6/15/15,-0.01904762
-6/18/15,-0.009230769
-6/22/15,0.123841061
-7/16/15,-0.294117653
-8/2/15,-0.047727272
-8/31/15,0.10909091
-9/11/15,0.01875
-9/12/15,0.017391304
-9/25/15,-0.022916669
-10/27/15,-0.017948719
-10/29/15,0.188636365
-11/5/15,-0.01904762
-11/28/15,-0.015476189
-12/1/15,0.011764707
-12/5/15,0.100000002
-12/11/15,0.007692308
-2/9/16,0.096153847
-2/25/16,0.083505157
-2/29/16,0.12991453
-3/17/16,0.035616439
-4/29/16,-0.042000001
-6/7/16,0.10909091
-8/17/16,-0.043750001
-8/24/16,-0.084210525
-9/27/16,-0.077272728
-10/4/16,-0.115384615
-10/11/16,0.005263157
-11/3/16,0.121276595
-11/11/16,-0.055172414
-11/16/16,0.104081633
-11/17/16,-0.044117647
-11/22/16,-0.090909092
-12/5/16,0.071428574
-12/7/16,0.009375003
-12/11/16,-0.088000001
-12/14/16,-0.143750005
-12/15/16,-0.035714287
-1/24/17,-0.157142857
-2/16/17,0.107692309
-3/27/17,0.057142857
-3/28/17,0
-3/29/17,-0.133333333
-4/20/17,0.05064935
-4/29/17,0.035294118
-5/12/17,-0.036842105
-5/24/17,0.013157894
-5/31/17,0.063333334
-6/6/17,-0.171875001
-6/14/17,0.015999999
-8/8/17,-0.210344827
-8/21/17,-0.027777779
-8/28/17,0.033333335
-9/12/17,0.015151516
-9/14/17,-0.117857144
-9/15/17,-0.027692306
-9/30/17,-0.102631581
-10/11/17,-0.065517243
-10/23/17,-0.023809526
-11/3/17,0.045
-12/13/17,0.143478263
-12/14/17,-0.219999998
-1/10/18,-0.008333332
-2/8/18,0.023529413
-5/8/18,0.018421055
-8/17/18,0.084615385
-10/12/18,-0.04827586
-10/15/18,-0.009259259
-10/16/18,0.190476191
-10/18/18,-0.063414633
-10/22/18,-0.038636365
-10/23/18,0.041176467
-10/24/18,-0.419047622
-10/25/18,0.10909091
+Date,Headline,Sentiment
+2011-10-07,Does clean energy kill jobs?,0.04054053993643941
+2011-10-17,Climate change is shrinking species study warns,0.09696969773733255
+2011-10-21,New climate study deals blow to skeptics,-0.03333333432674408
+2011-10-26,'Risk Atlas' assesses climate vulnerability,0.03913043471782104
+2011-10-27,The rebirth of renewable energy,0.05135135221722964
+2011-11-08,Australia approves carbon emissions tax,-0.047368420582068596
+2011-11-29,Kenya's Turkana people facing climate catastrophe,0.030952381768396924
+2011-12-03,How climate change has affected your favorite landscapes,0.11666666964689891
+2011-12-06,In austere times world needs a climate change 'Plan B',0.12826086985676186
+2011-12-09,Why women are world's best climate change defense,0.24255319177470308
+2011-12-11,Delegates at climate talks agree to extend efforts of Kyoto Protocol,-0.023529411677051994
+2011-12-12,Canada quits Kyoto climate pact,0.0
+2011-12-13,Banker: Spending on climate change makes good business sense,0.10689655177552125
+2011-12-23,Floods heat migration: How extreme weather will transform cities,0.01818181879141114
+2012-03-01,Florida group rebuilds vital coral reefs,0.22600000023841857
+2012-05-11,The Mysterious Case of the Disappearing Bees,0.14081632817278103
+2012-06-10,Melting Arctic 'blooms' with algae,0.2185185201190136
+2012-07-11,Why we should expect more weather disasters,0.12045454724945805
+2012-07-17,Can oxygen pump breathe life into ocean 'dead zone?',-0.15000000179690473
+2012-07-24,Extreme weather and a changing climate,0.3090909112131957
+2012-07-28,What Olympics teach about going green,0.2674999997019768
+2012-08-05,NASA scientist links climate change extreme weather,-0.013333336512247721
+2012-09-20,Kandeh Yumkella: Energy chief on a mission to end poverty,0.14769230656898938
+2012-09-25,Next global warming worry: Thawing tundra,0.0
+2012-10-29,Climate change raises stakes for coast,0.09791666859139998
+2012-11-01,Climate change is real,0.13953488597343133
+2012-11-07,Climate change is back on the table,-0.0029411769526846267
+2012-11-16,Chasing down the world's vanishing glaciers,-0.12068965568624694
+2012-11-27,How U.S. can once again define the future,0.09344262238897261
+2012-11-29,Greenland Antarctica ice melt speeding up study finds,-0.011111110655797852
+2012-12-03,A tax we could learn to love,0.051923077983351856
+2012-12-04,U.S. energy revolution transforms climate debate,-0.0277777761220932
+2012-12-06,Bloomberg says NYC will rebuild with climate change in mind,0.0
+2012-12-09,More voices needed in climate debate,0.10999999925494194
+2012-12-13,UK lifts ban on fracking to exploit shale gas reserves,-0.10000000176606355
+2012-12-26,Quicker fix for climate change,0.07567567478966068
+2013-01-22,Part of complete coverage on,0.12666666835546495
+2013-01-23,Environmentalists want Obama to steer clear of Congress on climate change,0.10285714460270745
+2013-01-29,Obama turn climate 'priority' into leadership,0.1292682946091745
+2013-02-08,How biotechnology can solve the energy crisis,0.22399999856948852
+2013-02-11,Obama needs to lay out a plan on climate crisis,0.13023255696130354
+2013-02-17,Environmentalists fill National Mall to fight climate change,-0.1138888912068473
+2013-02-18,How to fight climate change,-0.11276595595669239
+2013-02-22,Plastic ice for the polar bears?,-0.01764706040129942
+2013-02-26,Warming climate could mean bigger blizzards less snow,0.016000001430511473
+2013-03-06,Major snow disappoints with minor moisture,-0.06274509838983125
+2013-03-07,World rejects new protections for polar bears,-0.07083333500971396
+2013-03-08,Global warming is epic long-term study says,0.11538461767710172
+2013-03-12,Global warming brings on more pollen,0.12037036954252808
+2013-03-14,Ryan budget is a firing offense,0.043137255398666155
+2013-03-18,Probing the ocean's undiscovered depths,0.2900000015894572
+2013-03-22,Part of complete coverage on,0.009230769139069778
+2013-04-09,Turbulence ahead as climate changes,-0.024390243720717547
+2013-04-12,Study: Natural causes not human activity behind Plains drought,-0.07200000107288361
+2013-04-17,Eurozone woes push climate reform to backseat,-0.07812499813735485
+2013-04-22,When helping Earth was women's work,0.043243242075314395
+2013-04-25,Don't let America get 'fracked',-0.028260870958152023
+2013-05-10,Green power for all,0.043589746340727195
+2013-05-22,No evidence global warming spawned twister,0.01818182116205042
+2013-05-24,Americans having their say on divisive Keystone pipeline plan,-0.02467532397864701
+2013-06-04,U.S. steps up natural gas exports,0.016981132469087275
+2013-06-11,Bloomberg wants to spend billions on storm climate change protection,0.0391304356896359
+2013-06-28,Obama is right on climate change,0.053333333796925016
+2013-08-01,Climate change may increase violence study shows,-0.0076923076636516135
+2013-09-26,We need common sense on climate change,0.10408163298757708
+2013-09-27,Mucking around with climate change,0.03589743528610621
+2013-10-22,Australia's bushfires inflame climate change debate,0.05151515341166294
+2013-10-29,Report: Climate change may pose threat to economic growth,-0.03103448116573794
+2013-11-03,Climate change warriors: It's time to go nuclear,0.15000000223517418
+2013-11-11,Climate change: Why nations not global talks are leading the fight,0.2342857133064951
+2014-01-17,U.N. report: Don't delay on climate change,-0.003636363555084575
+2014-01-31,Bloomberg appointed U.N. envoy for cities climate change,0.16499999947845936
+2014-02-18,5 reasons why climate change is back in the news,-0.050793651432271984
+2014-02-24,Why are we still debating climate change?,0.01454545259475708
+2014-03-06,Why women are the secret weapon to tackling climate change,0.19210526405980713
+2014-03-30,Wake up to the reality of climate change,0.0711538469275603
+2014-03-31,Climate change could cost more than $100 billion a year,-0.0058823517140220195
+2014-05-06,5 things you can do about climate change,0.20789473699895958
+2014-05-20,Scientists: U.S. historic landmarks imperiled by climate change,0.0968750030733645
+2014-05-23,More women entrepreneurs needed to help tackle climate change,0.31071428848164423
+2014-06-02,Obama's big environmental move: Power plants to cut carbon pollution,-0.019402985030145786
+2014-09-21,MAVEN spacecraft enters Mars orbit to explore its climate change,0.0882352963089943
+2014-09-23,How to equip farmers for climate change,-0.09166666803260644
+2014-11-14,U.S. sending $3 billion to poor countries to combat climate change,-0.03125
+2014-12-30,With climate change Himalayas' future is warmer not necessarily brighter,-0.048598130590447756
+2015-01-21,Obama: No greater threat to future than climate change,0.05789473907727944
+2015-01-22,'Coming out' on climate change,-0.05199999898672104
+2015-02-19,Fight climate change make money,0.20888888869020675
+2015-03-09,On climate change Florida officials told to speak no evil,-0.04000000327825546
+2015-03-31,U.S. has bold plan to stall climate change,0.1400000015894572
+2015-04-08,Did climate change cause California drought?,0.07636363858526403
+2015-04-22,Obama turns up heat on climate change debate in Florida,-0.13255814133688462
+2015-05-20,In Coast Guard commencement address Obama buoys climate change,-0.10625000018626451
+2015-05-27,Texas flooding puts Cruz GOP in bind on climate change,-0.036363636002396095
+2015-06-15,Pope's message on climate change leaked,-0.019047620041029795
+2015-06-18,Pope hands GOP climate change dilemma,-0.009230769482942727
+2015-06-22,EPA boss: Climate change could kill thousands,0.12384106105329185
+2015-07-16,Clinton confronted by climate change protests at town hall,-0.29411765319459576
+2015-08-02,Obama unveils major climate change proposal,-0.04772727242247625
+2015-08-31,Obama condemns climate change deniers,0.10909090970050205
+2015-09-11,Your climate change questions answered,0.01874999977140264
+2015-09-12,Brown to Carson: Here's climate change evidence,0.017391303959100143
+2015-09-25,Why conservatives must fight climate change,-0.02291666918123762
+2015-10-27,Climate change will bring deadly heat to the Middle East,-0.017948718598255746
+2015-10-29,The business case for tackling climate change,0.18863636509261347
+2015-11-05,ExxonMobil hit with climate change investigation in New York,-0.01904761986363502
+2015-11-28,Climate change is a form of terror,-0.015476188932855925
+2015-12-01,House votes to reject Obama climate change regulations,0.01176470737246906
+2015-12-05,Officials from around the world reach climate change draft agreement,0.10000000225037944
+2015-12-11,Sean Paul and Natasha Bedingfield get political on climate change,0.007692307806932009
+2016-02-09,Supreme Court blocks Obama climate change rules,0.09615384672696774
+2016-02-25,Packing up because of climate change,0.08350515695884056
+2016-02-29,Can Miami Beach survive climate change?,0.12991453025840285
+2016-03-17,So ... was that climate change?,0.035616439193078914
+2016-04-29,New evidence shows conservatives are warming up to climate change,-0.04200000062584877
+2016-06-07,India moves toward U.S. on climate change,0.10909091003916481
+2016-08-17,Will climate change stop the Summer Olympics?,-0.0437500006519258
+2016-08-24,Changing opinions on climate change from a CNN meteorologist,-0.08421052502174127
+2016-09-27,Mike Pence appears at odds with Trump on climate change,-0.07727272808551788
+2016-10-04,Climate change divide continues between parties,-0.11538461538461539
+2016-10-11,Hillary Clinton and Al Gore reunite campaigning on climate change,0.0052631571888923645
+2016-11-03,Climate change denialism is so last season,0.12127659549104407
+2016-11-11,Why climate change experts fear Trump's presidency,-0.05517241358757019
+2016-11-16,Trump won't deter us on climate change,0.10408163283552442
+2016-11-17,China delegate hits back at Trump's climate change hoax claims,-0.04411764727795825
+2016-11-22,Trump admits 'some connectivity' between climate change and human activity,-0.09090909226374193
+2016-12-05,Donald Trump meets with Al Gore on climate change,0.07142857382340091
+2016-12-07,Climate change could render Sudan 'uninhabitable',0.009375002817250788
+2016-12-11,Trump: 'Nobody really knows' if climate change is real,-0.08800000071525574
+2016-12-14,Trump team disavows climate change questionnaire to Energy Department,-0.143750004703179
+2016-12-15,Scientists scramble to protect research on climate change,-0.03571428677865437
+2017-01-24,Badlands National Park deletes tweets on climate change,-0.15714285664615177
+2017-02-16,Scientists highlight deadly health risks of climate change,0.10769230929704812
+2017-03-27,Trump dramatically changes US approach to climate change,0.05714285719607558
+2017-03-28,What Trump's climate change order accomplishes -- and what it doesn't,0.0
+2017-03-29,thanks for visiting cnnmoney.,-0.1333333332881783
+2017-04-20,Climate change is hurting U.S. corn farmers -- and your wallet,0.05064934956562984
+2017-04-29,EPA removes climate change information from website,0.035294117734712714
+2017-05-12,Tillerson signs declaration stressing climate change threat,-0.036842105420012226
+2017-05-24,Pope-Trump meeting agenda: Climate change terrorism,0.013157894148638374
+2017-05-31,Trump breaks with Pentagon on climate change,0.06333333378036816
+2017-06-06,GOPer: Why we don't talk about climate change,-0.17187500093132257
+2017-06-14,Climate change in schools where it's 'fake news',0.01599999889731407
+2017-08-08,Emails: USDA employees suggest removing 'climate change' term,-0.21034482738067364
+2017-08-21,Trump administration dismisses climate change advisory panel,-0.027777778812580638
+2017-08-28,Did climate change impact Hurricane Harvey?,0.03333333498901791
+2017-09-12,Trump administration doesn't want to talk about climate change,0.01515151560306549
+2017-09-14,Trump dismisses climate change question by contradicting himself on hurricanes,-0.1178571440811668
+2017-09-15,Yes climate change made Harvey and Irma worse,-0.02769230604171753
+2017-09-30,Trump administration swaps 'climate change' for 'resilience',-0.10263158145703767
+2017-10-11,EPA makes 'climate change' vanish from four-year plan,-0.06551724286942646
+2017-10-23,Government report calls on Trump to act on climate change,-0.023809526293050675
+2017-11-03,Trump administration report attributes climate change to 'human activities',0.04500000029802322
+2017-12-13,Climate change made Hurricane Harvey's rainfall worse study finds,0.1434782633314962
+2017-12-14,Climate change just broke a NOAA algorithm,-0.21999999831120173
+2018-01-10,Report: Trump admin scrubbed mentions of climate change from websites,-0.008333331594864527
+2018-02-08,EPA Administrator Scott Pruitt suggests climate change could benefit humans,0.02352941343012978
+2018-05-08,Pediatricians are concerned about climate change and here's why,0.018421054670685215
+2018-08-17,Most economic forecasts have a big blind spot: Climate change,0.08461538530313052
+2018-10-12,How climate change will affect your health,-0.04827586034762448
+2018-10-15,Climate change to cause global beer shortage study says,-0.009259259121285545
+2018-10-16,Climate change endangers dozens of World Heritage sites,0.19047619136316435
+2018-10-18,Trump's failure to fight climate change is a crime against humanity,-0.06341463291063541
+2018-10-22,Banning plastic straws is a little like spitting in the wind,-0.038636364889415825
+2018-10-23,A cruise ship spills thousands of liters of waste in the Great Barrier Reef harming coral already in troubled water,0.04117646681911805
+2018-10-24,That rectangular iceberg spotted by NASA is real,-0.4190476220988092
+2018-10-25,How states can fight climate change under Trump,0.10909090953117068
